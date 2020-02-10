@@ -10,19 +10,20 @@
     text-align: center;
 }
 
-
 #div3 {
     position: relative;
     float: left;
     border: 2px solid red;
     text-align: center;
-    width:20%;
+    width: 20%;
     padding-right: 25px;
 }
 
 #div4 {
-    float:right;
- 
+    float: right;
+    color: aquamarine;
+    border: 2px dashed blue;
+    text-align: center;
 }
 
 #div5 {
@@ -30,13 +31,15 @@
     float: left;
     border: 2px solid rebeccapurple;
     text-align: center;
-    width:20%;
+    width: 20%;
     clear: both;
 }
 
 #div6 {
     float: right;
-    
+    color: purple;
+    border: 2px dashed goldenrod;
+    text-align: center;
 }
 
 #div7 {
@@ -44,6 +47,6 @@
     float: left;
     border: 2px solid silver;
     text-align: center;
-    width:20%;
+    width: 20%;
     clear: both;
 }
