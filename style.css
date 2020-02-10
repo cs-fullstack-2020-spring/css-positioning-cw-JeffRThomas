@@ -1,0 +1,49 @@
+#div1 {
+    color: purple;
+    border: 2px solid blue;
+    text-align: center;
+}
+
+#div2 {
+    color: green;
+    border: 2px solid yellow;
+    text-align: center;
+}
+
+
+#div3 {
+    position: relative;
+    float: left;
+    border: 2px solid red;
+    text-align: center;
+    width:20%;
+    padding-right: 25px;
+}
+
+#div4 {
+    float:right;
+ 
+}
+
+#div5 {
+    position: relative;
+    float: left;
+    border: 2px solid rebeccapurple;
+    text-align: center;
+    width:20%;
+    clear: both;
+}
+
+#div6 {
+    float: right;
+    
+}
+
+#div7 {
+    position: relative;
+    float: left;
+    border: 2px solid silver;
+    text-align: center;
+    width:20%;
+    clear: both;
+}
