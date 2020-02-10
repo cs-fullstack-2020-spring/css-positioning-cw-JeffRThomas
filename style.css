@@ -24,6 +24,7 @@
     border: 2px dashed blue;
     text-align: center;
     width: 75%;
+    padding: 5% 0 5% 0;
 }
 
 #div5 {
@@ -32,7 +33,6 @@
     border: 2px solid rebeccapurple;
     text-align: center;
     width: 20%;
-    clear: both;
 }
 
 #div6 {
@@ -41,6 +41,7 @@
     border: 2px dashed goldenrod;
     text-align: center;
     width: 75%;
+    padding: 5% 0 5% 0;
 }
 
 #div7 {
@@ -49,5 +50,4 @@
     border: 2px solid silver;
     text-align: center;
     width: 20%;
-    clear: both;
 }
